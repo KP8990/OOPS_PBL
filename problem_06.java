@@ -1,4 +1,4 @@
-public class problem_6 {
+public class problem_06 {
     
     // Data fields with default values
     double width = 1;

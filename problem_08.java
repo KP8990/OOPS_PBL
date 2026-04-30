@@ -1,4 +1,4 @@
-public class problem_8 {
+public class problem_08 {
 
     // Data members
     private int x;

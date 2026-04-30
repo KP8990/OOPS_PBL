@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem_7 {
+public class problem_07 {
 
     // Private instance variables
     private String employeeName;

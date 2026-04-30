@@ -1,4 +1,4 @@
-public class problem_9 {
+public class problem_09 {
 
     // Data fields
     double width;
